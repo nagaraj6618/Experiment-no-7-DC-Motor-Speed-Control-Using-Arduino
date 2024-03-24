@@ -66,6 +66,7 @@ void loop()
 ### GRAPH AND TABULATION 
 
 ![Screenshot 2024-03-24 150215](https://github.com/nagaraj6618/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/127173574/276e605e-479b-42ff-8047-5fd2ef2f6ef4)
+
 ![Screenshot 2024-03-24 145309](https://github.com/nagaraj6618/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/127173574/a9d33372-b52f-42d5-bbbd-36b6e018f516)
 
 
